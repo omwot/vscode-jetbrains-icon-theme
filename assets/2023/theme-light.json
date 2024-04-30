@@ -231,6 +231,9 @@
     "file_lua": {
       "iconPath": "./icons/lua.svg"
     },
+    "file_luau": {
+      "iconPath": "./icons/lua.svg"
+    },
     "file_haskell": {
       "iconPath": "./icons/haskell.svg"
     }
@@ -387,6 +390,7 @@
     "mdx": "file_mdx",
     "erl": "file_erlang",
     "lua": "file_lua",
+    "luau": "file_luau",
     "hs":"file_haskell"
   }
 }
